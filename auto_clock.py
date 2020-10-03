@@ -70,5 +70,5 @@ except:
     print("打卡失败")
 end = time.time()
 
-print("duration: %.2f s, ENTER for leave" % (end-start))
+input("duration: %.2f s, ENTER for leave" % (end-start))
 drive.close()
