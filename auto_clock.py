@@ -3,8 +3,8 @@ import sys
 import time
 
 # settings
-id = "n830026070"
-password = "fairy013LYH"
+id = "*****"
+password = "******"
 degree1 = "36.2"
 degree2 = "36.2"
 
