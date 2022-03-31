@@ -1,5 +1,6 @@
 # UIC 每日健康申报打卡脚本
 > Automatically sign the health report
+> 
 > support win,mac,linux(if capable to download python)
 
 1. clone it.
