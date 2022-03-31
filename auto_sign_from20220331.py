@@ -2,8 +2,8 @@ from selenium import webdriver
 import sys
 
 # settings
-id = "n830026070"
-password = "fairy013LYH"
+id = "*******"
+password = "********"
 key_words = ["都没有", "以下", "健康", "珠海"]
 key_words2= [ "不含"]
 def if_in(string):
